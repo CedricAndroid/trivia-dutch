@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CedricAndroid/trivia-dutch/issues"
   },
-  "homepage": "https://github.com/CedricAndroid/trivia-dutch#readme"
+  "homepage": "https://github.com/CedricAndroid/trivia-dutch#readme",
+  "dependencies": {
+    "heroku": "^7.59.2"
+  }
 }
